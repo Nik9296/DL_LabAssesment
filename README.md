@@ -51,7 +51,7 @@ Launch the Streamlit dashboard locally:
 
 Bash
 
-streamlit run app/streamlit_app.py
+streamlit run app.py
 Then open your browser at: http://localhost:8501
 
 🔄 CI Pipeline (GitHub Actions)
